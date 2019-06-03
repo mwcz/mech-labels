@@ -64,4 +64,7 @@ td, th {
 .full-link {
   font-size: 0.8em;
 }
+div {
+  page-break-inside: avoid;
+}
 </style>
